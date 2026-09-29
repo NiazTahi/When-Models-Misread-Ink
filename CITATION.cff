@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "When Models Misread Ink: Auditing VLMs for Arabic Calligraphy Recognition"
+message: "If you use this repository, please cite the associated MusIML@NeurIPS 2026 paper."
+type: software
+authors:
+  - family-names: Abtahi
+    given-names: Niaz Mohaiman
+    email: tahiniaz@gmail.com
+  - family-names: Maksud
+    given-names: Evan
+  - family-names: Shahid
+    given-names: Reyana
+repository-code: "https://github.com/NiazTahi/When-Models-Misread-Ink"
+date-released: "2026-09-30"
+license: MIT

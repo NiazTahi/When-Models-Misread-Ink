@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="250" viewBox="0 0 1000 250" role="img" aria-labelledby="title desc">
+  <title id="title">Calligraphy audit result summary</title>
+  <desc id="desc">Three summary cards describing label collapse, Diwani weakness, and prompt instability.</desc>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFDF7"/>
+      <stop offset="100%" stop-color="#FFF3D8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="250" rx="28" fill="#FFFBF1"/>
+  <g transform="translate(36 34)">
+    <rect width="286" height="182" rx="22" fill="url(#card)" stroke="#E7C170"/>
+    <text x="24" y="48" fill="#6F3B04" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Label collapse</text>
+    <text x="24" y="88" fill="#4A2A0A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Uncertain predictions often</text>
+    <text x="24" y="114" fill="#4A2A0A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">fall into familiar default</text>
+    <text x="24" y="140" fill="#4A2A0A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">script labels.</text>
+  </g>
+  <g transform="translate(357 34)">
+    <rect width="286" height="182" rx="22" fill="url(#card)" stroke="#E7C170"/>
+    <text x="24" y="48" fill="#6F3B04" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Diwani is hard</text>
+    <text x="24" y="88" fill="#4A2A0A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Many models struggle to</text>
+    <text x="24" y="114" fill="#4A2A0A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">recover visually distinctive</text>
+    <text x="24" y="140" fill="#4A2A0A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">but less default classes.</text>
+  </g>
+  <g transform="translate(678 34)">
+    <rect width="286" height="182" rx="22" fill="url(#card)" stroke="#E7C170"/>
+    <text x="24" y="48" fill="#6F3B04" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Prompts are unstable</text>
+    <text x="24" y="88" fill="#4A2A0A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Prompt changes may help</text>
+    <text x="24" y="114" fill="#4A2A0A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">one model while hurting</text>
+    <text x="24" y="140" fill="#4A2A0A" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">another.</text>
+  </g>
+</svg>
