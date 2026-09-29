@@ -1,0 +1,8 @@
+You are shown an Arabic calligraphy image. Below are six possible styles, each with a number:
+1. Kufic
+2. Naskh
+3. Thuluth
+4. Diwani
+5. Ruq'ah
+6. Nasta'liq
+Respond with only the number of the style that best matches this image. Respond with a single digit only - no words, no explanation.

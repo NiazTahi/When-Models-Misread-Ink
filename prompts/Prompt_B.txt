@@ -1,0 +1,25 @@
+You are shown an Arabic calligraphy image. Classify its calligraphic style.
+
+Choose exactly one of these six styles:
+
+1. Kufic
+2. Naskh
+3. Thuluth
+4. Diwani
+5. Ruq'ah
+6. Nasta'liq
+
+Use the following visual cues:
+
+- Kufic: angular, geometric, squared or block-like letterforms; strong horizontal/vertical structure; often rigid and monumental.
+- Naskh: clear, balanced, readable manuscript style; rounded letters; moderate stroke contrast; commonly used for Qur'anic and book text.
+- Thuluth: large, elegant, sweeping curves; elongated verticals; complex decorative composition; often used in architectural or ceremonial calligraphy.
+- Diwani: highly cursive and ornamental; dense flowing curves; letters may interlace; often compact and decorative.
+- Ruq'ah: simple, fast handwriting-like style; compact letters; short strokes; practical and less ornamental.
+- Nasta'liq: diagonal/slanted baseline; hanging or cascading composition; soft flowing curves; common in Persian/Urdu calligraphy.
+
+Base your answer only on visible visual style, not on the meaning of the text, image background, decoration, or color.
+
+If multiple styles seem possible, choose the closest match based on the dominant letter shapes and composition.
+
+Respond with only a single digit from 1 to 6. Do not explain.

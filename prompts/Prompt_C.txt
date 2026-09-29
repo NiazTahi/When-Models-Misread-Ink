@@ -1,0 +1,10 @@
+Look carefully at the calligraphic strokes, curves, and letterforms in this Arabic calligraphy image. Based on the following characteristics, determine which classical script family it belongs to:
+
+Diwani: highly cursive and ornamental; dense flowing curves; letters may interlace; often compact and decorative.
+Kufic: angular, geometric, squared or block-like letterforms; strong horizontal/vertical structure; often rigid and monumental.
+Naskh: clear, balanced, readable manuscript style; rounded letters; moderate stroke contrast; commonly used for Qur'anic and book text.
+Thuluth: large, elegant, sweeping curves; elongated verticals; complex decorative composition; often used in architectural or ceremonial calligraphy.
+Ruq'ah: simple, fast handwriting-like style; compact letters; short strokes; practical and less ornamental.
+Nasta'liq: diagonal/slanted baseline; hanging or cascading composition; soft flowing curves; common in Persian/Urdu calligraphy.
+
+Base your answer only on visible visual style, not on the meaning of the text, image background, decoration, or color. State only the name of the script."
